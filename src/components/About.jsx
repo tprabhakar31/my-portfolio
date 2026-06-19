@@ -4,7 +4,7 @@ import { useRef } from 'react'
 import portfolioData from '../data/portfolioData'
 
 const stats = [
-  { num: '3+',  label: 'Years Experience' },
+  { num: '3.8+',  label: 'Years Experience' },
   { num: '10+', label: 'Projects Built'   },
   { num: '15+', label: 'Technologies'     },
   { num: '100%', label: 'Dedication'      },

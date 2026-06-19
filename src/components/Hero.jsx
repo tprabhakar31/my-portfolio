@@ -270,7 +270,7 @@ const Hero = () => {
                 fontSize: '16px',
                 fontWeight: '500',
                 color: '#7F77DD'
-              }}>2+</div>
+              }}>3.8+</div>
               <div style={{ fontSize: '11px', color: '#555' }}>Years Exp.</div>
             </motion.div>
 
